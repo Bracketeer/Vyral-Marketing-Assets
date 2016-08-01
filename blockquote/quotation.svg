@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3446"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="216.72433"
+   height="171.85324">
+  <metadata
+     id="metadata3452">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3450" />
+  <sodipodi:namedview
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+
+     id="namedview3448" />
+  <inkscape:clipboard
+     style="color:#cccccc;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#cccccc;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     min="254.20731,531.33979"
+     max="470.93165,703.19303" />
+  <path
+     id="path3407"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:expanded;font-size:625.1428833px;line-height:125%;font-family:'Engravers MT';-inkscape-font-specification:'Engravers MT Medium Expanded';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 126.67691,171.85324 -6.10492,-10.0731 q 51.89175,-27.4721 51.89175,-51.89175 0,-10.37834 -19.53572,-20.45145 -17.399,-9.15736 -24.41964,-18.31473 -6.7154,-9.15737 -6.7154,-23.80915 0,-19.53572 13.73604,-33.27177 Q 149.57032,0 168.80079,0 q 21.36719,0 34.49275,17.09375 13.4308,17.09375 13.4308,44.56585 0,45.17634 -34.1875,77.53237 -11.59933,10.68359 -22.89342,17.39899 -10.98884,6.41016 -32.96651,15.26228 z m -120.572,0 L 0,161.78014 q 51.89175,-27.77735 51.89175,-51.89175 0,-5.79966 -4.27344,-10.0731 Q 43.34487,95.23661 32.35603,89.43694 15.56752,80.89007 8.24163,71.42746 1.22098,61.6596 1.22098,47.31306 1.22098,27.4721 14.95703,13.73605 28.69308,0 47.92355,0 69.59599,0 82.721546,17.09375 96.15235,34.1875 96.15235,61.6596 q 0,21.67243 -8.852121,41.51339 Q 78.753353,123.01395 61.6596,139.19197 41.81864,157.5067 6.10491,171.85324 Z"
+     inkscape:connector-curvature="0" />
+</svg>
